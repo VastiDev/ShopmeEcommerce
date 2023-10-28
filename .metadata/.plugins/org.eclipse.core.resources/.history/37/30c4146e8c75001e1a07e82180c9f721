@@ -1,0 +1,10 @@
+package com.shopme.admin;
+
+public class ShopmeBackEndApplication {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,10 @@
+package com.shopme.site;
+
+@Controller
+public class MainController {
+
+	@GetMapping("")
+	public String viewHomePage() {
+		return "index";
+	}
+}

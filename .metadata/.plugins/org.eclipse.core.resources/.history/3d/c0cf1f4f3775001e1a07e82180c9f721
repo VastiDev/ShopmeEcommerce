@@ -1,0 +1,12 @@
+package com.shopme;
+
+import org.junit.jupiter.api.Test;
+
+@SpringBootTest
+class ShopmeBackEndApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
