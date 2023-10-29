@@ -2591,3 +2591,6 @@ Java Model Exception: Error in Java Model (code 969): ShopmeProject does not exi
 
 !ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-28 22:03:58.964
 !MESSAGE Classpath changed for project: ShopmeFrontEnd
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-10-29 09:11:06.196
+!MESSAGE Classpath changed for project: ShopmeBackEnd
